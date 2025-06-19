@@ -4,6 +4,13 @@ This is an AI-powered chatbot and web interface for helping users in India find 
 
 - 🧠 **OpenAI Assistants API** for conversational recommendations
 - 🌐 **Streamlit-based chat UI**
+- 💳 **Credit Card Image Preview**
+
+
+
+## 🎥 Demo
+
+![Demo](demo.gif)
 
 ---
 
@@ -79,7 +86,3 @@ The file `cards.csv` includes:
 This dataset can be expanded for better results.
 
 ---
-
-## 🎥 Demo
-
-![Demo](demo.gif)
